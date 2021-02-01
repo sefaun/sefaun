@@ -20,12 +20,12 @@ const myInformation = {
 ---
 ## <img src="https://media.giphy.com/media/9dO6eZxWeDWwM/giphy.gif" width="30px"> Technologies & Tools  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-![HTML5](https://img.shields.io/badge/-HTML5-deeppink?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-deeppink?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-deeppink?style=flat-square&logo=bootstrap)
-![Vuesax](https://img.shields.io/badge/-Vuesax-deeppink?style=flat-square&logo=vuesax)
-![Vuejs](https://img.shields.io/badge/-Vuejs-deeppink?style=flat-square&logo=Vue.js)
-![Nuxtjs](https://img.shields.io/badge/-Nuxtjs-deeppink?style=flat-square&logo=Nuxt.js)
+![HTML5](https://img.shields.io/badge/-HTML5-ff4040?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-ff4040?style=flat-square&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-ff4040?style=flat-square&logo=bootstrap)
+![Vuesax](https://img.shields.io/badge/-Vuesax-ff4040?style=flat-square&logo=vuesax)
+![Vuejs](https://img.shields.io/badge/-Vuejs-ff4040?style=flat-square&logo=Vue.js)
+![Nuxtjs](https://img.shields.io/badge/-Nuxtjs-ff4040?style=flat-square&logo=Nuxt.js)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
@@ -62,6 +62,8 @@ const myInformation = {
 ![npm](https://img.shields.io/npm/v/node-cache?label=node-cache)
 ![npm](https://img.shields.io/npm/v/node-cron?label=node-cron)
 ![npm](https://img.shields.io/npm/v/dotenv?label=dotenv)
+![npm](https://img.shields.io/npm/v/apexcharts?label=apexcharts)
+![npm](https://img.shields.io/npm/v/vuex?label=vuex)
 ![npm](https://img.shields.io/npm/v/nodemon?label=nodemon)
 ---
 
