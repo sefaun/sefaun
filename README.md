@@ -70,7 +70,7 @@ const myInformation = {
 ![npm](https://img.shields.io/npm/v/nodemon?label=nodemon)
 ---
 
-### 💪 Some Project
+### 💪 Some Projects
 
 * [Kendi Websitem](http://www.sefaun.com/)
 * [Web Tasarımı](http://www.alvemsis.com/)
