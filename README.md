@@ -2,7 +2,7 @@
 
 ```javascript
 const myInformation = {
-      pronouns: "he",
+      salutation: "Mr.",
       mobil: [Flutter],
       frontEnd: [HTML, CSS, JS, Vue.js, Nuxt.js, Bootstrap, Vuesax],
       backEnd: [Node.js, API, HTTP, Socket.io, Websocket, TCP/IP, MQTT, NGINX],
