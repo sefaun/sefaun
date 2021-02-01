@@ -18,7 +18,7 @@ const myInformation = {
 [![Hotmail Badge](https://img.shields.io/badge/-sefaun6654@hotmail.com-007fff?style=flat-square&logo=Hotmail&logoColor=white&link=mailto:sefaun6654@hotmail.com)](mailto:sefaun6654@hotmail.com)
 
 ---
-## <img src="https://media.giphy.com/media/9dO6eZxWeDWwM/giphy.gif" width="30px"> Technologies & Tools  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+### <img src="https://media.giphy.com/media/9dO6eZxWeDWwM/giphy.gif" width="30px"> Technologies & Tools  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 ![HTML5](https://img.shields.io/badge/-HTML5-ff4040?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-ff4040?style=flat-square&logo=css3)
@@ -42,7 +42,7 @@ const myInformation = {
 ![Postman](https://img.shields.io/badge/-Postman-purple?style=flat-square&logo=postman)
 
 ---
-### Node.Js Modules
+### <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="30px"> Node.Js Modules
 ![npm](https://img.shields.io/npm/v/socket.io?label=socket.io)
 ![npm](https://img.shields.io/npm/v/socket.io-client?label=socket.io-client)
 ![npm](https://img.shields.io/npm/v/net?label=net)
