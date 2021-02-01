@@ -42,9 +42,25 @@ const myInformation = {
 ![Postman](https://img.shields.io/badge/-Postman-purple?style=flat-square&logo=postman)
 
 ---
-### ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js) Node.Js Modules
-![socket.io](https://img.shields.io/npm/v/socket.io)
-![nodemailer](https://img.shields.io/npm/v/nodemailer)
+### Node.Js Modules
+![npm](https://img.shields.io/npm/v/socket.io?label=socket.io)
+![npm](https://img.shields.io/npm/v/socket.io-client?label=socket.io-client)
+![npm](https://img.shields.io/npm/v/net?label=net)
+![npm](https://img.shields.io/npm/v/jsonwebtoken?label=jsonwebtoken)
+![npm](https://img.shields.io/npm/v/bcryptjs?label=bcryptjs)
+![npm](https://img.shields.io/npm/v/mqtt?label=mqtt)
+![npm](https://img.shields.io/npm/v/express?label=express)
+![npm](https://img.shields.io/npm/v/moment?label=moment)
+![npm](https://img.shields.io/npm/v/excel4node?label=excel4node)
+![npm](https://img.shields.io/npm/v/nodemailer?label=nodemailer)
+![npm](https://img.shields.io/npm/v/http?label=http)
+![npm](https://img.shields.io/npm/v/joi?label=joi)
+![npm](https://img.shields.io/npm/v/mkdirp?label=mkdirp)
+![npm](https://img.shields.io/npm/v/mysql?label=mysql)
+![npm](https://img.shields.io/npm/v/node-cache?label=node-cache)
+![npm](https://img.shields.io/npm/v/node-cron?label=node-cron)
+![npm](https://img.shields.io/npm/v/dotenv?label=dotenv)
+![npm](https://img.shields.io/npm/v/nodemon?label=nodemon)
 ---
 
 ### 💪 Some Project
