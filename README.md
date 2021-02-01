@@ -1,4 +1,4 @@
-### <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"><img src="https://media.giphy.com/media/MEFVcuRIoVETUMYZEe/giphy.gif" width="50px"> I'm SEFA ÜN 
+### <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"><img src="https://media.giphy.com/media/MEFVcuRIoVETUMYZEe/giphy.gif" width="50px"> I'm SEFA ÜN <img src="https://media.giphy.com/media/l46CxDIh6HDiH9ndm/giphy.gif" width="30px">
 
 ```javascript
 const myInformation = {
@@ -18,7 +18,7 @@ const myInformation = {
 [![Hotmail Badge](https://img.shields.io/badge/-sefaun6654@hotmail.com-007fff?style=flat-square&logo=Hotmail&logoColor=white&link=mailto:sefaun6654@hotmail.com)](mailto:sefaun6654@hotmail.com)
 
 ---
-## ⚡ Technologies & Tools  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+## <img src="https://media.giphy.com/media/9dO6eZxWeDWwM/giphy.gif" width="30px"> Technologies & Tools  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 ![HTML5](https://img.shields.io/badge/-HTML5-deeppink?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-deeppink?style=flat-square&logo=css3)
@@ -41,6 +41,10 @@ const myInformation = {
 ![GitHub](https://img.shields.io/badge/-GitHub-purple?style=flat-square&logo=github)
 ![Postman](https://img.shields.io/badge/-Postman-purple?style=flat-square&logo=postman)
 
+---
+### ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js) Node.Js Modules
+![socket.io](https://img.shields.io/npm/v/socket.io)
+![nodemailer](https://img.shields.io/npm/v/nodemailer)
 ---
 
 ### 💪 Some Project
