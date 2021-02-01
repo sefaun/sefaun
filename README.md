@@ -4,8 +4,8 @@
 const myInformation = {
       pronouns: "he",
       mobil: [Flutter],
-      front_end: [HTML, CSS, JS, Vue.js, Nuxt.js, Bootstrap, Vuesax],
-      back_end: [Node.js, API, HTTP, Socket.io, Websocket, TCP/IP, MQTT, NGINX],
+      frontEnd: [HTML, CSS, JS, Vue.js, Nuxt.js, Bootstrap, Vuesax],
+      backEnd: [Node.js, API, HTTP, Socket.io, Websocket, TCP/IP, MQTT, NGINX],
       database: [MySQL, Firebase, AWS],
       microcontrollers: [C, STM32, PIC]
 }
