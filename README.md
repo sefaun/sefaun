@@ -1,13 +1,15 @@
 ### Hi I'm SEFA ÜN <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
+<p  align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="350" height="300">
+
 ```javascript
 const myInformation = {
-  pronouns: "he",
-  mobil: [Flutter],
-  front_end: [HTML, CSS, JS, Vue.js, Nuxt,js, Bootstrap, Vuesax],
-  back_end: [Node.js, API, HTTP, Socket.io, Websocket, TCP/IP, MQTT, NGINX],
-  database: [Mysql, Firebase, AWS],
-  microcontrollers: [C, STM32, PIC]
+      pronouns: "he",
+      mobil: [Flutter],
+      front_end: [HTML, CSS, JS, Vue.js, Nuxt,js, Bootstrap, Vuesax],
+      back_end: [Node.js, API, HTTP, Socket.io, Websocket, TCP/IP, MQTT, NGINX],
+      database: [Mysql, Firebase, AWS],
+      microcontrollers: [C, STM32, PIC]
 }
 ```
 
@@ -18,17 +20,19 @@ const myInformation = {
 [![Hotmail Badge](https://img.shields.io/badge/-sefaun6654@hotmail.com-007fff?style=flat-square&logo=Hotmail&logoColor=white&link=mailto:sefaun6654@hotmail.com)](mailto:sefaun6654@hotmail.com)
 
 ---
-## ⚡ Technologies  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+## ⚡ Technologies & Tools  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 ![HTML5](https://img.shields.io/badge/-HTML5-deeppink?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-deeppink?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-deeppink?style=flat-square&logo=bootstrap)
+![Vuesax](https://img.shields.io/badge/-Vuesax-deeppink?style=flat-square&logo=vuesax)
 ![Vuejs](https://img.shields.io/badge/-Vuejs-deeppink?style=flat-square&logo=Vue.js)
 ![Nuxtjs](https://img.shields.io/badge/-Nuxtjs-deeppink?style=flat-square&logo=Nuxt.js)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![MySQL](https://img.shields.io/badge/-MySQL-grey?style=flat-square&logo=mysql)
+![Firebase](https://img.shields.io/badge/-Firebase-grey?style=flat-square&logo=firebase)
 ![Docker](https://img.shields.io/badge/-Docker-grey?style=flat-square&logo=docker)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-grey?style=flat-square&logo=amazon-aws)
 ![Flutter](https://img.shields.io/badge/-Flutter-blue?style=flat-square&logo=flutter)
@@ -37,8 +41,11 @@ const myInformation = {
 ![PIC](https://img.shields.io/badge/-PIC-00599C?style=flat-square&logo=PIC)
 ![Git](https://img.shields.io/badge/-Git-purple?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-purple?style=flat-square&logo=github)
+![Postman](https://img.shields.io/badge/-Postman-purple?style=flat-square&logo=postman)
 
-### Some Project
+---
+
+### 💪 Some Project
 
 * [Kendi Websitem](http://www.sefaun.com/)
 * [Web Tasarımı](http://www.alvemsis.com/)
