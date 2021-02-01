@@ -42,7 +42,7 @@ const myInformation = {
 ![Postman](https://img.shields.io/badge/-Postman-purple?style=flat-square&logo=postman)
 
 ---
-### <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="30px"> Node.Js Modules
+### Node.Js Modules <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="30px">
 ![npm](https://img.shields.io/npm/v/socket.io?label=socket.io)
 ![npm](https://img.shields.io/npm/v/socket.io-client?label=socket.io-client)
 ![npm](https://img.shields.io/npm/v/net?label=net)
