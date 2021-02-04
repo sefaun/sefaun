@@ -7,7 +7,7 @@ const myInformation = {
       frontEnd: [HTML, CSS, JS, Vue.js, Nuxt.js, Bootstrap, Vuesax],
       backEnd: [Node.js, API, HTTP, Socket.io, Websocket, TCP/IP, MQTT, NGINX],
       database: [MySQL, Firebase, AWS],
-      desktop: [Electron.js],
+      desktop: [Electron.js, C#],
       microcontrollers: [C, STM32, PIC]
 }
 ```
@@ -30,7 +30,8 @@ const myInformation = {
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
-![Electronjs](https://img.shields.io/badge/-Electronjs-yellow?style=flat-square&logo=Elektron.js)
+![Electronjs](https://img.shields.io/badge/-Electronjs-yellow?style=flat-square&logo=elektron.js)
+![CSharp](https://img.shields.io/badge/-CSharp-yellow?style=flat-square&logo=CS)
 ![Nginx](https://img.shields.io/badge/-Nginx-purple?style=flat-square&logo=nginx)
 ![MySQL](https://img.shields.io/badge/-MySQL-purple?style=flat-square&logo=mysql)
 ![Firebase](https://img.shields.io/badge/-Firebase-purple?style=flat-square&logo=firebase)
