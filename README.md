@@ -28,6 +28,7 @@ const myInformation = {
 ![Vuejs](https://img.shields.io/badge/-Vuejs-ff4040?style=flat-square&logo=Vue.js)
 ![Nuxtjs](https://img.shields.io/badge/-Nuxtjs-ff4040?style=flat-square&logo=Nuxt.js)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![Electronjs](https://img.shields.io/badge/-Electronjs-yellow?style=flat-square&logo=elektron.js)
