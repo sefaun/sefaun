@@ -75,6 +75,7 @@ const myInformation = {
 
 ### 💪 Some Projects
 
+* [NPM JS'den Vue.js Projelerine Eklenebilen Control Widget Modulü](https://www.npmjs.com/package/sefa-control-widget)
 * [Kendi Websitem](http://www.sefaun.com/)
 * [Web Tasarımı](http://www.alvemsis.com/)
 * [Cafe Adisyonu](http://e-garsonum.com/ana-sayfa)
