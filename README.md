@@ -75,7 +75,8 @@ const myInformation = {
 
 ### 💪 Some Projects
 
-* [NPM JS'den Vue.js Projelerine Eklenebilen Control Widget Modulü](https://www.npmjs.com/package/control-widget)
+* [NPM.JS'den Vue.js Projelerine Eklenebilen Control Widget Modulü](https://www.npmjs.com/package/control-widget)
+* [NPM.JS'den Vue.js ve Nuxt.js Projelerine Eklenebilen Digital Bar Gauge Modulü](https://www.npmjs.com/package/digital-bar-gauge)
 * [Kendi Websitem](http://www.sefaun.com/)
 * [Web Tasarımı](http://www.alvemsis.com/)
 * [Cafe Adisyonu](http://e-garsonum.com/ana-sayfa)
