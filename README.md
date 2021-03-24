@@ -5,7 +5,7 @@ const myInformation = {
       salutation: "Mr.",
       mobil: [Flutter, Dart],
       frontEnd: [HTML, CSS, JS, Vue.js, Nuxt.js, Bootstrap, Vuesax],
-      backEnd: [Node.js, API, HTTP, Socket.io, Websocket, TCP/IP, MQTT, NGINX],
+      backEnd: [Node.js, API, HTTP, Socket.io, Websocket, TCP/IP, MQTT, RabbitMQ, NGINX],
       database: [MySQL, Firebase, AWS],
       desktop: [Electron.js, C#],
       microcontrollers: [C, STM32, PIC]
