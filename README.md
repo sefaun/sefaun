@@ -5,10 +5,10 @@ const myInformation = {
       salutation: "Mr.",
       mobile: [Flutter, Dart],
       frontEnd: [HTML, CSS, JS, Vue.js, Nuxt.js, Bootstrap, Vuesax],
-      backEnd: [Node.js, Golang, REST-API, HTTP, Apollo Server(GraphQL), Socket.io, Websocket, TCP/IP, MQTT, RabbitMQ, Redis, NGINX],
-      database: [MySQL, PostgreSQL, Firebase, AWS],
+      backEnd: [Node.js, Golang, REST-API, HTTP, Apollo Server(GraphQL), Socket.io, Websocket, TCP/IP, MQTT Broker, RabbitMQ, Redis, NGINX],
+      database: [MySQL, PostgreSQL, MongoDB, Firebase],
       desktop: [Electron.js, C#],
-      microcontrollers: [C, STM32, PIC]
+      microcontrollers: [C, STM32, PIC, ESP32]
 }
 ```
 
@@ -77,13 +77,10 @@ const myInformation = {
 
 * [NPM.JS'den Vue.js Projelerine Eklenebilen Control Widget Modulü](https://www.npmjs.com/package/control-widget)
 * [NPM.JS'den Vue.js ve Nuxt.js Projelerine Eklenebilen Digital Bar Gauge Modulü](https://www.npmjs.com/package/digital-bar-gauge)
-* [Kendi Websitem](http://www.sefaun.com/)
+* [IoT Cloud Sistemi](https://untel-cloud.com)
 * [Web Tasarımı](http://www.alvemsis.com/)
-* [Cafe Adisyonu](http://e-garsonum.com/ana-sayfa)
 
 ---
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=fesa6654&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fesa6654&hide=TeX&layout=compact)
 ---
-
-🔗 From [Official Website](http://www.sefaun.com/)
