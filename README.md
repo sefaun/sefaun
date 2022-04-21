@@ -36,7 +36,6 @@ const myInformation = {
 ![MySQL](https://img.shields.io/badge/-MySQL-purple?style=flat-square&logo=mysql)
 ![Firebase](https://img.shields.io/badge/-Firebase-purple?style=flat-square&logo=firebase)
 ![Docker](https://img.shields.io/badge/-Docker-purple?style=flat-square&logo=docker)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-purple?style=flat-square&logo=amazon-aws)
 ![Linux](https://img.shields.io/badge/-Linux-purple?style=flat-square&logo=linux)
 ![Flutter](https://img.shields.io/badge/-Flutter-blue?style=flat-square&logo=flutter)
 ![Dart](https://img.shields.io/badge/-Dart-blue?style=flat-square&logo=dart)
@@ -52,6 +51,8 @@ const myInformation = {
 ![npm](https://img.shields.io/npm/v/socket.io?label=socket.io)
 ![npm](https://img.shields.io/npm/v/socket.io-client?label=socket.io-client)
 ![npm](https://img.shields.io/npm/v/net?label=net)
+![npm](https://img.shields.io/npm/v/ioredis?label=ioredis)
+![npm](https://img.shields.io/npm/v/pg?label=pg)
 ![npm](https://img.shields.io/npm/v/jsonwebtoken?label=jsonwebtoken)
 ![npm](https://img.shields.io/npm/v/bcryptjs?label=bcryptjs)
 ![npm](https://img.shields.io/npm/v/crypto-js?label=crypto-js)
@@ -69,7 +70,7 @@ const myInformation = {
 ![npm](https://img.shields.io/npm/v/node-cron?label=node-cron)
 ![npm](https://img.shields.io/npm/v/dotenv?label=dotenv)
 ![npm](https://img.shields.io/npm/v/apexcharts?label=apexcharts)
-![npm](https://img.shields.io/npm/v/vuex?label=vuex)
+![npm](https://img.shields.io/npm/v/pm2?label=pm2)
 ![npm](https://img.shields.io/npm/v/nodemon?label=nodemon)
 ---
 
