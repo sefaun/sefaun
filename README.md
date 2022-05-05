@@ -80,8 +80,3 @@ const myInformation = {
 * [NPM.JS'den Vue.js ve Nuxt.js Projelerine Eklenebilen Digital Bar Gauge Modulü](https://www.npmjs.com/package/digital-bar-gauge)
 * [IoT Cloud Sistemi](https://untel-cloud.com)
 * [Web Tasarımı](http://www.alvemsis.com/)
-
----
-![Github Stats](https://github-readme-stats.vercel.app/api?username=fesa6654&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fesa6654&hide=TeX&layout=compact)
----
