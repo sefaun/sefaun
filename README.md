@@ -78,5 +78,6 @@ const myInformation = {
 
 * [NPM.JS'den Vue.js Projelerine Eklenebilen Control Widget Modulü](https://www.npmjs.com/package/control-widget)
 * [NPM.JS'den Vue.js ve Nuxt.js Projelerine Eklenebilen Digital Bar Gauge Modulü](https://www.npmjs.com/package/digital-bar-gauge)
-* [IoT Cloud Sistemi](https://untel-cloud.com)
+* [IoT Cloud Sistemi](https://uncomsys.com)
 * [Web Tasarımı](http://www.alvemsis.com/)
+* [Web Tasarımı](http://www.maytekmetal.com/)
