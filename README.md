@@ -1,4 +1,4 @@
-### <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"><img src="https://media.giphy.com/media/MEFVcuRIoVETUMYZEe/giphy.gif" width="50px"> I'm SEFA ÜN <img src="https://media.giphy.com/media/l46CxDIh6HDiH9ndm/giphy.gif" width="30px">
+### I'm SEFA ÜN <img src="https://media.giphy.com/media/l46CxDIh6HDiH9ndm/giphy.gif" width="30px">
 
 ```javascript
 const myInformation = {
