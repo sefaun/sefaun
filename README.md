@@ -19,7 +19,7 @@ const myInformation = {
 [![Hotmail Badge](https://img.shields.io/badge/-sefaun6654@hotmail.com-007fff?style=flat-square&logo=Hotmail&logoColor=white&link=mailto:sefaun6654@hotmail.com)](mailto:sefaun6654@hotmail.com)
 
 ---
-### <img src="https://media.giphy.com/media/9dO6eZxWeDWwM/giphy.gif" width="30px"> Technologies & Tools  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+### <img src="https://media.giphy.com/media/9dO6eZxWeDWwM/giphy.gif" width="30"> Technologies & Tools  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 ![HTML5](https://img.shields.io/badge/-HTML5-ff4040?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-ff4040?style=flat-square&logo=css3)
