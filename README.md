@@ -1,4 +1,4 @@
-### I'm SEFA ÜN <img src="https://media.giphy.com/media/l46CxDIh6HDiH9ndm/giphy.gif" width="30px">
+### I'm SEFA ÜN
 
 ```javascript
 const myInformation = {
