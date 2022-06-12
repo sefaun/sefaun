@@ -15,7 +15,7 @@ const myInformation = {
 ```
 
 [![Linkedin: SEFAÜN](https://img.shields.io/badge/-SefaÜN-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sefa-ün-856034172/)](https://www.linkedin.com/in/sefa-ün-856034172/)
-[![GitHub fesa6654](https://img.shields.io/github/followers/fesa6654?label=follow&style=social)](https://github.com/fesa6654)
+[![GitHub sefaun](https://img.shields.io/github/followers/sefaun?label=follow&style=social)](https://github.com/sefaun)
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/14761370/sefaun)](https://stackoverflow.com/users/14761370/sefaun?tab=profile)
 [![Instagram Badge](https://img.shields.io/badge/-SefaÜN-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/sefaun_10/)](https://instagram.com/sefaun_10)
 [![Hotmail Badge](https://img.shields.io/badge/-sefaun6654@hotmail.com-007fff?style=flat-square&logo=Hotmail&logoColor=white&link=mailto:sefaun6654@hotmail.com)](mailto:sefaun6654@hotmail.com)
