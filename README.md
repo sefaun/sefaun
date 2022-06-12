@@ -47,31 +47,6 @@ const myInformation = {
 ![GitHub](https://img.shields.io/badge/-GitHub-green?style=flat-square&logo=github)
 ![Postman](https://img.shields.io/badge/-Postman-green?style=flat-square&logo=postman)
 
----
-### Node.Js Modules <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="30">
-![npm](https://img.shields.io/npm/v/socket.io?label=socket.io)
-![npm](https://img.shields.io/npm/v/socket.io-client?label=socket.io-client)
-![npm](https://img.shields.io/npm/v/net?label=net)
-![npm](https://img.shields.io/npm/v/ioredis?label=ioredis)
-![npm](https://img.shields.io/npm/v/pg?label=pg)
-![npm](https://img.shields.io/npm/v/jsonwebtoken?label=jsonwebtoken)
-![npm](https://img.shields.io/npm/v/bcryptjs?label=bcryptjs)
-![npm](https://img.shields.io/npm/v/mqtt?label=mqtt)
-![npm](https://img.shields.io/npm/v/express?label=express)
-![npm](https://img.shields.io/npm/v/moment?label=moment)
-![npm](https://img.shields.io/npm/v/excel4node?label=excel4node)
-![npm](https://img.shields.io/npm/v/nodemailer?label=nodemailer)
-![npm](https://img.shields.io/npm/v/axios?label=axios)
-![npm](https://img.shields.io/npm/v/joi?label=joi)
-![npm](https://img.shields.io/npm/v/mkdirp?label=mkdirp)
-![npm](https://img.shields.io/npm/v/mysql?label=mysql)
-![npm](https://img.shields.io/npm/v/node-cache?label=node-cache)
-![npm](https://img.shields.io/npm/v/node-cron?label=node-cron)
-![npm](https://img.shields.io/npm/v/dotenv?label=dotenv)
-![npm](https://img.shields.io/npm/v/pm2?label=pm2)
-![npm](https://img.shields.io/npm/v/nodemon?label=nodemon)
----
-
 ### 💪 Some Projects
 
 * [NPM.JS'den Vue.js Projelerine Eklenebilen Control Widget Modulü](https://www.npmjs.com/package/control-widget)
