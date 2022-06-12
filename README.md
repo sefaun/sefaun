@@ -36,7 +36,6 @@ const myInformation = {
 ![MySQL](https://img.shields.io/badge/-MySQL-purple?style=flat-square&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/-Postgresql-purple?style=flat-square&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-purple?style=flat-square&logo=Mongodb)
-![Firebase](https://img.shields.io/badge/-Firebase-purple?style=flat-square&logo=firebase)
 ![Docker](https://img.shields.io/badge/-Docker-purple?style=flat-square&logo=docker)
 ![Linux](https://img.shields.io/badge/-Linux-purple?style=flat-square&logo=linux)
 ![Flutter](https://img.shields.io/badge/-Flutter-blue?style=flat-square&logo=flutter)
