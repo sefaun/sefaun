@@ -6,7 +6,7 @@
 const myInformation = {
       salutation: "Mr.",
       mobile: [Flutter, Dart],
-      frontEnd: [HTML, CSS, JS, Vue.js, Nuxt.js, Bootstrap, Vuesax],
+      frontEnd: [HTML, CSS, JS, Vue.js, Nuxt.js, Bootstrap, ElementUI, Vuesax],
       backEnd: [Node.js(Typescript), Golang, REST-API, HTTP, Apollo Server(GraphQL), Socket.io, Websocket, Protobuf, TCP/IP, MQTT Broker, RabbitMQ, Redis, NGINX],
       database: [MySQL, PostgreSQL],
       desktop: [Electron.js],
