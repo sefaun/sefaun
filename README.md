@@ -48,8 +48,11 @@ const myInformation = {
 
 ### 💪 Some Projects
 
-* [NPM.JS'den Vue.js Projelerine Eklenebilen Control Widget Modulü](https://www.npmjs.com/package/control-widget)
-* [NPM.JS'den Vue.js ve Nuxt.js Projelerine Eklenebilen Digital Bar Gauge Modulü](https://www.npmjs.com/package/digital-bar-gauge)
-* [IoT Cloud Sistemi](https://uncomsys.com)
-* [Web Tasarımı](http://www.alvemsis.com/)
-* [Web Tasarımı](http://www.maytekmetal.com/)
+* [NPM.JS'de GraphQL Middleware](https://www.npmjs.com/package/graphql-resolvers-middleware)
+* [NPM.JS'de Nodejs Middleware](https://www.npmjs.com/package/nodejs-middleware)
+* [NPM.JS'de Vue.js Widget](https://www.npmjs.com/package/control-widget)
+* [NPM.JS'de Vue.js Widget](https://www.npmjs.com/package/digital-bar-gauge)
+* [UNCOMSYS APP Nuxt.js](https://app.uncomsys.com)
+* [UNCOMSYS Nuxt.js](https://uncomsys.com)
+* [Alvemsis Nuxt.js](http://www.alvemsis.com/)
+* [Maytek Metal Nuxt.js](http://www.maytekmetal.com/)
