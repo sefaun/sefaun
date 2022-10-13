@@ -52,7 +52,7 @@ const myInformation = {
 * [NPM.JS'de Nodejs Middleware](https://www.npmjs.com/package/nodejs-middleware)
 * [NPM.JS'de Vue.js Widget](https://www.npmjs.com/package/control-widget)
 * [NPM.JS'de Vue.js Widget](https://www.npmjs.com/package/digital-bar-gauge)
-* [UNCOMSYS APP Nuxt.js](https://app.uncomsys.com)
+* [UNCOMSYS APP Vue.js](https://app.uncomsys.com)
 * [UNCOMSYS Nuxt.js](https://uncomsys.com)
 * [Alvemsis Nuxt.js](http://www.alvemsis.com/)
 * [Maytek Metal Nuxt.js](http://www.maytekmetal.com/)
