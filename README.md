@@ -5,12 +5,13 @@
 ```javascript
 const myInformation = {
       salutation: "Mr.",
-      mobile: [Flutter, Dart],
-      frontEnd: [HTML, CSS, JS, Vue.js, Nuxt.js, Bootstrap, ElementUI, Vuesax],
-      backEnd: [Node.js(Typescript), Golang, REST-API, HTTP, Apollo Server(GraphQL), Socket.io, Websocket, Protobuf, TCP/IP, MQTT Broker, RabbitMQ, Redis, NGINX],
+      mobile: [Flutter],
+      frontEnd: [HTML, CSS, SCSS, JS, Vue.js, Nuxt.js],
+      UIKits: [Bootstrap, ElementUI, Vuesax, AntDesign],
+      backEnd: [Node.js(Typescript), Golang, REST-API, Apollo-Server(GraphQL), Socket.io, Websocket, Protobuf, TCP/IP, Prisma, PUB/SUB, MQTT Broker, RabbitMQ, Redis],
+      devOps: [CI/CD, Docker, NGINX],
       database: [MySQL, PostgreSQL, MongoDB],
-      desktop: [Electron.js],
-      microcontrollers: [C, STM32, PIC, ESP32]
+      desktop: [Electron.js]
 }
 ```
 
@@ -28,6 +29,7 @@ const myInformation = {
 ![Vuejs](https://img.shields.io/badge/-Vuejs-ff4040?style=flat-square&logo=Vue.js)
 ![Nuxtjs](https://img.shields.io/badge/-Nuxtjs-ff4040?style=flat-square&logo=Nuxt.js)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=Go)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![Electronjs](https://img.shields.io/badge/-Electronjs-yellow?style=flat-square&logo=elektron.js)
@@ -38,10 +40,6 @@ const myInformation = {
 ![Docker](https://img.shields.io/badge/-Docker-purple?style=flat-square&logo=docker)
 ![Linux](https://img.shields.io/badge/-Linux-purple?style=flat-square&logo=linux)
 ![Flutter](https://img.shields.io/badge/-Flutter-blue?style=flat-square&logo=flutter)
-![Dart](https://img.shields.io/badge/-Dart-blue?style=flat-square&logo=dart)
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
-![STM32](https://img.shields.io/badge/-STM32-00599C?style=flat-square&logo=c)
-![PIC](https://img.shields.io/badge/-PIC-00599C?style=flat-square&logo=c)
 ![Git](https://img.shields.io/badge/-Git-green?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-green?style=flat-square&logo=github)
 ![Postman](https://img.shields.io/badge/-Postman-green?style=flat-square&logo=postman)
