@@ -8,7 +8,7 @@ const myInformation = {
       mobile: [Flutter],
       frontEnd: [HTML, CSS, SCSS, JS, Vue.js, Nuxt.js],
       UIKits: [Bootstrap, ElementUI, Vuesax, AntDesign],
-      backEnd: [Node.js(Typescript), Golang, REST-API, Apollo-Server(GraphQL), Socket.io, Websocket, Protobuf, TCP/IP, Prisma, PUB/SUB, MQTT Broker, RabbitMQ, Redis],
+      backEnd: [Node.js(Typescript), Golang, REST-API, Apollo-Server(GraphQL), Socket.io, Websocket, Protobuf, TCP/IP, Prisma, PUB/SUB, MQTT Broker, RabbitMQ, Redis, EventSource],
       devOps: [CI/CD, Docker, NGINX],
       database: [MySQL, PostgreSQL, MongoDB],
       desktop: [Electron.js]
