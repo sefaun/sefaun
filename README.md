@@ -11,7 +11,8 @@ const myInformation = {
       backEnd: [Node.js(Typescript), Golang, REST-API, Apollo-Server(GraphQL), Socket.io, Websocket, Protobuf, TCP/IP, Prisma, PUB/SUB, MQTT Broker, RabbitMQ, Redis, EventSource],
       devOps: [CI/CD, Docker, NGINX],
       database: [MySQL, PostgreSQL, MongoDB],
-      desktop: [Electron.js]
+      desktop: [Electron.js],
+      testTools: [Jest, Cypress]
 }
 ```
 
