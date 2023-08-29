@@ -1,6 +1,6 @@
-![](https://komarev.com/ghpvc/?username=sefaun&color=brightgreen)
-
-### <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"><img src="https://media.giphy.com/media/MEFVcuRIoVETUMYZEe/giphy.gif" width="50"> I'm SEFA ÜN <img src="https://media.giphy.com/media/l46CxDIh6HDiH9ndm/giphy.gif" width="30">
+</br>
+<a href="https://stackoverflow.com/users/14761370/sefaun"><img src="https://stackoverflow.com/users/flair/14761370.png" width="208" height="58" alt="" title="" /></a>
+</br>
 
 ```javascript
 const myInformation = {
